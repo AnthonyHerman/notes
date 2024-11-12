@@ -71,7 +71,7 @@ not just an engineering constraint
 
 I believe this is one of the reasons why AI cannot enter a flow state. You could *maybe* argue that AI 'loses track of time' in some sense with the concept of attention. [The etymonline entry for attention](https://www.etymonline.com/search?q=attention) mentions the 'to stretch forward' but I both do not believe that this sense can be applied to AI models because the attention model doesn't so much as stretch time as it does provide attention for a given time in order to perform a task. I feel this conclusion is in no way a *stretch* 🥁 given the physical constraints.
 
-### 2. Intrinsic Motivation.
+### 2. Intrinsic motivation.
 Another handy graph:
 ```
 AI Attention:
